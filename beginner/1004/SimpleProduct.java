@@ -9,5 +9,6 @@ public class SimpleProduct {
 		int a = scanner.nextInt();
 		int b = scanner.nextInt();
 		System.out.println("PROD = " + (a * b));
+		scanner.close();
 	}
 }
