@@ -7,7 +7,6 @@ import java.lang.Math;
 public class EvenSquare {
 	public static void main(String[] args) throws IOException {
 		run();
-		// test();
 	}
 
 	public static void run() {

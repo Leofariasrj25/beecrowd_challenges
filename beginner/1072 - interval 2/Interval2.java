@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Interval2 {
 	public static void main(String[] args) throws IOException {
 		run();
-		test();
+		// test();
 	}
 
 	public static void run() {
