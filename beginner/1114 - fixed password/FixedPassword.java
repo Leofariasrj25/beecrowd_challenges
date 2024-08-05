@@ -16,5 +16,7 @@ public class FixedPassword {
 
 			System.out.println("Senha Invalida");
 		}
+
+		reader.close();
 	}
 }
